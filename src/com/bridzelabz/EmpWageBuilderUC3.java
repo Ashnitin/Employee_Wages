@@ -21,6 +21,6 @@ public class EmpWageBuilderUC3 {
             empHrs=0;
         }
         empWage = empHrs * EMP_RATE_PER_HOUR;
-        System.out.println("Emp Wage : "+empWage);
+        System.out.println("Emp Wages : "+empWage);
     }
 }
